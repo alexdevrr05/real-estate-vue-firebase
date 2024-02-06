@@ -2,9 +2,9 @@
 
 **Description**
 
-This project is a Real Estate built with technologies such as VuejS, Pinia, Firebase, Firestore, Vue Router and more!
+🍍 This project is a Real Estate built with technologies such as VuejS, Pinia, Firebase, Firestore, Vue Router and more!
 
-## Project Setup
+## Project Setup 🚀
 
 ```sh
 npm install or yarn install
